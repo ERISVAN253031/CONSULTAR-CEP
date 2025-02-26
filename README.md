@@ -1,6 +1,5 @@
 # Verificar CEP
 
-
 ## 📖 Descrição
 
 O **Verificar CEP** é uma aplicação web desenvolvida em **React** que permite aos usuários consultar informações relacionadas a Códigos de Endereçamento Postal (CEPs) no Brasil. O sistema fornece detalhes sobre o motorista associado a um CEP, incluindo a placa do veículo e a zona geográfica onde o CEP está localizado.
@@ -8,6 +7,12 @@ O **Verificar CEP** é uma aplicação web desenvolvida em **React** que permite
 ### 🚀 Objetivo
 
 O objetivo principal desta aplicação é facilitar a consulta de informações de transporte e logística, permitindo um acesso rápido e eficiente às informações necessárias para o planejamento de rotas e serviços.
+
+## 🌟 Motivação
+
+Este sistema foi criado em resposta a uma solicitação de um cliente que enfrentava dificuldades na gestão de suas entregas. Com a demissão do antigo roteirista, o novo profissional não tinha familiaridade com as regiões atendidas e os motoristas responsáveis por cada área. O cliente precisava de uma solução que tornasse mais fácil e rápida a identificação do motorista e da placa do veículo ao inserir um CEP.
+
+Dessa forma, a aplicação **Verificar CEP** foi desenvolvida para agilizar o processo de roteirização, proporcionando uma maneira eficiente de acessar informações críticas para o transporte e a logística, garantindo que as entregas sejam feitas de forma mais organizada e pontual.
 
 ## 🛠️ Tecnologias Utilizadas
 
